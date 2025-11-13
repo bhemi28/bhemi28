@@ -1,74 +1,89 @@
-<h1 align="center">Hey 👋, I'm Bhemi</h1>
-<h3 align="center">Backend Developer | API Architect | Linux Power User</h3>
+<!-- Profile README for Meet Bhesaniya (@bhemi28) -->
 
----
-
-### 💫 About Me
-- 🧩 I design and build **backend systems** that are clean, modular, and automation-friendly  
-- 💻 Working with **Node.js**, **Go**, **Redis**, **MongoDB**, and **MySQL**  
-- 🛍️ Integrating **Shopify Admin APIs** and **GraphQL** for custom commerce workflows  
-- 🧠 Exploring **system automation**, **JWT authentication**, and **data pipelines**  
-- 🐧 Living on **Debian + DWM**, themed using **Pywal** and **Alacritty**  
-- ⚙️ Dev tools I rely on: **Docker**, **Zed**, **DBeaver**, **VS Code**  
-- 🌱 Currently learning deeper **Go concurrency** and **Redis optimization**
-
----
-
-### 🧰 Tech Stack
-
-#### 🖥️ Languages & Frameworks
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=for-the-badge&logo=typescript)
-![Node.js](https://img.shields.io/badge/-Node.js-000?style=for-the-badge&logo=node.js)
-![Go](https://img.shields.io/badge/-Golang-000?style=for-the-badge&logo=go)
-![Express](https://img.shields.io/badge/-Express.js-000?style=for-the-badge&logo=express)
-![GraphQL](https://img.shields.io/badge/-GraphQL-000?style=for-the-badge&logo=graphql)
-
-#### 🧩 Databases & Caching
-![MySQL](https://img.shields.io/badge/-MySQL-000?style=for-the-badge&logo=mysql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb)
-![Redis](https://img.shields.io/badge/-Redis-000?style=for-the-badge&logo=redis)
-
-#### 🧠 Tools & Platforms
-![Docker](https://img.shields.io/badge/-Docker-000?style=for-the-badge&logo=docker)
-![Shopify](https://img.shields.io/badge/-Shopify%20API-000?style=for-the-badge&logo=shopify)
-![Postman](https://img.shields.io/badge/-Postman-000?style=for-the-badge&logo=postman)
-![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
-![Linux](https://img.shields.io/badge/-Linux-000?style=for-the-badge&logo=linux)
-![Debian](https://img.shields.io/badge/-Debian-000?style=for-the-badge&logo=debian)
-![DWM](https://img.shields.io/badge/-DWM-000?style=for-the-badge&logo=arch-linux)
-
-#### 🧰 IDEs & Editors
-![VS Code](https://img.shields.io/badge/-VS%20Code-000?style=for-the-badge&logo=visual-studio-code)
-![Zed](https://img.shields.io/badge/-Zed-000?style=for-the-badge&logo=zedindustries)
-![DBeaver](https://img.shields.io/badge/-DBeaver-000?style=for-the-badge&logo=dbeaver)
-![Alacritty](https://img.shields.io/badge/-Alacritty-000?style=for-the-badge&logo=alacritty)
-
----
-
-### 📊 GitHub Stats
-
+<h1 align="center">👋 Hi, I'm Meet Bhesaniya</h1>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhemi&show_icons=true&theme=tokyonight" alt="Bhemi's GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhemi&layout=compact&theme=tokyonight" alt="Top Langs" height="165"/>
+  <b>Backend Developer • Go & Node.js • Linux Power User</b>
 </p>
 
 ---
 
-### 🚀 Featured Projects
-- 🧾 **Attendance System** — Validates & calculates work hours from Excel using Node.js + MySQL  
-- 🛒 **Shopify Donation App** — Custom checkout flow with webhook + groupId trigger logic  
-- ⚡ **Automation Stack** — Theme, boot, and automate DWM setup using Pywal & shell scripts  
-- 🔧 **API Infrastructure** — JWT-auth based API templates using Express & Redis cache layers  
+## 🧠 About Me
+
+### 🧩 Core Focus
+- Building **clean, modular backend systems**
+- Designing **automation**, **data pipelines**, and **auth logic**
+- Exploring **Go concurrency** and **Redis-backed caching**
+
+### ⚙️ Tech Stack
+- **Languages:** Go, Node.js  
+- **Databases:** MongoDB, MySQL, Redis  
+- **APIs & Platforms:** Shopify Admin API (GraphQL)
+
+### 🧠 Workflow & Environment
+- **Daily Driver:** Debian + DWM (Pywal themed)  
+- **Terminals & Editors:** Alacritty, **Neovim**, Zed, VS Code  
+- **Utilities:** Docker, DBeaver  
 
 ---
 
-### 📫 Connect with Me
-[![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)](https://github.com/bhemi)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/)
-[![Email](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail)](mailto:yourmail@example.com)
+## 🧰 Tool Stack
+
+### 💻 Languages & Frameworks
+![Go](https://img.shields.io/badge/-Go-000?style=for-the-badge&logo=go)
+![Node.js](https://img.shields.io/badge/-Node.js-000?style=for-the-badge&logo=node.js)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=for-the-badge&logo=typescript)
+![GraphQL](https://img.shields.io/badge/-GraphQL-000?style=for-the-badge&logo=graphql)
+
+### 🗄️ Databases & Caching
+![MySQL](https://img.shields.io/badge/-MySQL-000?style=for-the-badge&logo=mysql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb)
+![Redis](https://img.shields.io/badge/-Redis-000?style=for-the-badge&logo=redis)
+
+### ⚙️ Environment & Tools
+![Docker](https://img.shields.io/badge/-Docker-000?style=for-the-badge&logo=docker)
+![Linux](https://img.shields.io/badge/-Linux-000?style=for-the-badge&logo=linux)
+![Debian](https://img.shields.io/badge/-Debian-000?style=for-the-badge&logo=debian)
+![DWM](https://img.shields.io/badge/-DWM-000?style=for-the-badge&logo=arch-linux)
+![Neovim](https://img.shields.io/badge/-Neovim-000?style=for-the-badge&logo=neovim)
+![Zed](https://img.shields.io/badge/-Zed-000?style=for-the-badge&logo=zedindustries)
+![VS Code](https://img.shields.io/badge/-VS%20Code-000?style=for-the-badge&logo=visual-studio-code)
+![DBeaver](https://img.shields.io/badge/-DBeaver-000?style=for-the-badge&logo=dbeaver)
+![Shopify](https://img.shields.io/badge/-Shopify%20API-000?style=for-the-badge&logo=shopify)
 
 ---
 
-> 🧠 *“Build. Automate. Refine. Repeat.”*  
-> Clean design. Solid backend. No clutter.
+## 🚀 Projects
+
+### ⚙️ Backend Systems
+- 🧮 **Attendance System** — Excel-based time validation & MySQL reporting  
+- 🛍️ **Shopify Donation App** — Custom checkout + webhook integration  
+- 🔐 **API Infrastructure** — JWT-based backend templates with Redis caching  
+- 🧠 **DWM Automation Stack** — Pywal + Shell scripts for full theme automation  
+
+### 🦫 Go Projects
+- 📰 **RSS Aggregator** — Merge, fetch & store RSS feeds  
+- 🧾 **Product Tracker** — Track price changes via Go-based scheduler  
+- 📒 **TUI Daily Logger** — Terminal productivity logger with persistent storage  
+- 🧱 **GOTTH (Go To The Hub)** — Full-stack Go blog platform (pure Go stack)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bhemi28&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true" height="165" alt="Meet's GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhemi28&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top languages"/>
+</p>
+
+---
+
+## 📫 Contact
+📧 **Email:** [meet.bhesaniya.prof@gmail.com](mailto:meet.bhesaniya.prof@gmail.com)  
+🌐 **GitHub:** [github.com/bhemi28](https://github.com/bhemi28)
+
+---
+
+<p align="center">
+  <sub>💬 “Build it clean, make it run fast, and automate it if you can.”</sub>
+</p>
