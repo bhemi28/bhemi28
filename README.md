@@ -79,7 +79,7 @@
 ---
 
 ## 📫 Contact
-📧 **Email:** [meet.bhesaniya.prof@gmail.com](mailto:meet.bhesaniya.prof@gmail.com)  
+📧 **Email:** [meetbhesaniya191@gmail.com](mailto:meetbhesaniya191@gmail.com)  
 🌐 **GitHub:** [github.com/bhemi28](https://github.com/bhemi28)
 
 ---
